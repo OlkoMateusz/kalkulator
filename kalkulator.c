@@ -11,6 +11,9 @@ double dodawanie(double a,double b){
  double odejmowanie(double c, double d){
         return c-d;
     }
+double kwadrat(double x){
+    return x*x;
+}
 int main()
 {
     
