@@ -1,4 +1,10 @@
 #include <stdio.h>
+
+float dzielenie(float a, float b)
+{
+    return a/b;
+}
+
 double dodawanie(double a,double b){
     return a + b;
 }
@@ -7,6 +13,6 @@ double dodawanie(double a,double b){
     }
 int main()
 {
-
+    
     return 0;
 }
